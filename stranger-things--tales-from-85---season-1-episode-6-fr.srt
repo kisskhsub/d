@@ -1,0 +1,1409 @@
+1
+00:04:08,458 --> 00:04:09,625
+Constant!
+
+2
+00:04:10,458 --> 00:04:14,208
+{\an8}Ici. Le voici. Ici...
+Allez. Allez, petit gars !
+
+3
+00:04:20,791 --> 00:04:24,041
+{\an8}Mon amour, tu dois manger.
+La journée n’est qu’à moitié terminée.
+
+4
+00:04:24,125 --> 00:04:27,250
+{\an8}Votre cerveau a besoin de nourriture pour fonctionner.
+
+5
+00:04:27,333 --> 00:04:28,416
+{\an8}Je n'ai pas vraiment faim.
+
+6
+00:04:28,500 --> 00:04:29,583
+{\an8}Oh, ce n'est pas le cas ?
+
+7
+00:04:29,666 --> 00:04:32,666
+{\an8}Eh bien, pourquoi ne demandes-tu pas
+vos récepteurs GHSR1a ?
+
+8
+00:04:32,750 --> 00:04:36,250
+{\an8}Je suis certain qu'ils vous le diraient
+une autre histoire.
+
+9
+00:04:39,916 --> 00:04:42,500
+Quoi qu'il en soit, je pensais,
+
+10
+00:04:42,583 --> 00:04:45,208
+comment voudrais-tu
+recevoir tes nouveaux amis un jour ?
+
+11
+00:04:45,291 --> 00:04:46,750
+Nous pourrions faire un feu de joie.
+
+12
+00:04:46,833 --> 00:04:50,083
+Hé, maman, combien de temps encore
+est-ce qu'on reste dans les parages ?
+
+13
+00:04:50,166 --> 00:04:51,583
+Eh bien, laisse-moi voir.
+
+14
+00:04:51,666 --> 00:04:54,208
+J'ai une réunion de professeur à 14h00,
+et puis j'ai--
+
+15
+00:04:54,291 --> 00:04:56,375
+Je veux dire rester à Hawkins.
+
+16
+00:04:56,958 --> 00:04:59,208
+Waouh ! D'où ça vient ?
+
+17
+00:05:00,208 --> 00:05:02,250
+Regardez, regardez, regardez, regardez !
+Attention, attention !
+
+18
+00:05:03,708 --> 00:05:05,375
+Oups ! Oh-oh !
+
+19
+00:05:05,458 --> 00:05:07,625
+Captain Lab Safety à la rescousse.
+
+20
+00:05:09,375 --> 00:05:10,875
+Hé, quoi de neuf, D Man ?
+
+21
+00:05:10,958 --> 00:05:12,000
+Salut Daniel.
+
+22
+00:05:12,083 --> 00:05:14,250
+Je viens avec des sandwichs.
+
+23
+00:05:14,333 --> 00:05:17,333
+Quelqu’un s’est encore trompé de sac à dos.
+
+24
+00:05:17,416 --> 00:05:20,500
+Merci. Je suis Starvin' Marvin ici.
+
+25
+00:05:20,583 --> 00:05:22,125
+Mais le cerveau a besoin de nourriture pour fonctionner.
+
+26
+00:05:22,916 --> 00:05:25,291
+Tu sais, je pensais que tu aimais ça ici.
+
+27
+00:05:25,375 --> 00:05:27,916
+Je ne m'en souviens pas
+la dernière fois que tu as reçu des amis.
+
+28
+00:05:29,125 --> 00:05:30,000
+Chéri.
+
+29
+00:05:31,250 --> 00:05:33,291
+Je ne peux pas quitter Hawkins. Je...
+
+30
+00:05:33,375 --> 00:05:34,625
+Mais pas encore.
+
+31
+00:05:34,708 --> 00:05:38,625
+Whoa, whoa, whoa ! Qui quitte Hawkins ?
+
+32
+00:05:38,708 --> 00:05:42,666
+J'ai trop progressé dans mon travail
+abandonner maintenant.
+
+33
+00:05:42,750 --> 00:05:45,750
+Ta mère est proche
+à une véritable avancée.
+
+34
+00:05:45,833 --> 00:05:49,625
+Un jour, les gens pourront
+faire revivre leurs produits pourris
+
+35
+00:05:49,708 --> 00:05:52,000
+à cause du travail de ta mère.
+
+36
+00:05:52,083 --> 00:05:55,625
+Elle pourrait changer le monde
+si elle s'y tient.
+
+37
+00:05:55,708 --> 00:05:57,458
+Bien. Peu importe. Je comprends.
+
+38
+00:05:59,458 --> 00:06:02,833
+Donnez-moi juste un avertissement
+quand tu auras fini de "changer le monde"
+
+39
+00:06:02,916 --> 00:06:04,750
+pour que je puisse commencer à faire mes valises, d'accord ?
+
+40
+00:06:04,833 --> 00:06:06,708
+Nikki. Nikki.
+
+41
+00:06:09,375 --> 00:06:10,875
+- Non.
+- Qui veut mon PB&J ?
+
+42
+00:06:10,958 --> 00:06:12,125
+J'ai du jus de pomme !
+
+43
+00:06:13,416 --> 00:06:15,958
+Hé, tu sais
+tu as vraiment été pour moi hier.
+
+44
+00:06:16,041 --> 00:06:21,166
+Et rien de tout cela n'aurait été possible
+sans le Hawkins Investigators Club.
+
+45
+00:06:21,250 --> 00:06:24,125
+Certainement pas! C'est génial !
+
+46
+00:06:24,208 --> 00:06:28,291
+Merci à tous.
+J'accepte humblement ce chapeau très cool.
+
+47
+00:06:29,333 --> 00:06:34,166
+Très bien, maintenant avant de déclarer
+le H.I.C. une réussite définitive,
+
+48
+00:06:34,250 --> 00:06:36,666
+vérifions nos calculs.
+Commencez-nous, Will.
+
+49
+00:06:37,458 --> 00:06:40,958
+Eh bien, nous avons découvert que si les spores
+ne trouvez pas d'hôte dans les 12 heures,
+
+50
+00:06:41,041 --> 00:06:42,083
+ils meurent définitivement.
+
+51
+00:06:42,166 --> 00:06:45,416
+Et cela fait maintenant plus de 24 heures
+depuis le dernier incident.
+
+52
+00:06:45,500 --> 00:06:47,458
+Nous devrions donc être clairs.
+
+53
+00:06:47,541 --> 00:06:50,833
+Même si nous ne sommes jamais allés au fond
+du feu rouge de Charlie.
+
+54
+00:06:52,833 --> 00:06:54,500
+Gagnez, Dustin !
+
+55
+00:06:54,583 --> 00:06:56,125
+Le test final est ici.
+
+56
+00:06:56,208 --> 00:06:58,666
+Le dernier de nos H.I.C. boîtes à conseils.
+
+57
+00:06:58,750 --> 00:07:01,583
+Si nous l'ouvrons et trouvons un indice,
+il y a encore du travail à faire.
+
+58
+00:07:01,666 --> 00:07:02,500
+Si nous ne le faisons pas,
+
+59
+00:07:02,583 --> 00:07:05,458
+cela veut dire le Hawkins Investigators Club
+a réussi.
+
+60
+00:07:05,541 --> 00:07:07,291
+Roulez du tambour, s'il vous plaît.
+
+61
+00:07:07,375 --> 00:07:11,250
+Trois, deux, un.
+
+62
+00:07:14,500 --> 00:07:15,416
+Oui!
+
+63
+00:07:15,500 --> 00:07:16,458
+Ordures!
+
+64
+00:07:17,541 --> 00:07:20,166
+Le H.I.C. est une véritable réussite !
+
+65
+00:07:20,250 --> 00:07:23,708
+H.I.C.! H.I.C.! H.I.C.!
+
+66
+00:07:23,791 --> 00:07:24,625
+Oui!
+
+67
+00:07:24,708 --> 00:07:26,833
+El m'attend
+pour venir la chercher après l'école.
+
+68
+00:07:26,916 --> 00:07:30,583
+Ensuite, nous pourrons tous nous retrouver à l'arcade
+pour parler de la nouvelle campagne D&D.
+
+69
+00:07:30,666 --> 00:07:33,250
+Elle sera heureuse de savoir
+les choses sont enfin revenues à la normale.
+
+70
+00:07:33,333 --> 00:07:37,041
+En fait, je vous rencontrerai les gars
+à l'arcade plus tard.
+
+71
+00:07:37,125 --> 00:07:41,291
+J'ai ça, euh,
+une quête secondaire que je dois faire.
+
+72
+00:07:41,875 --> 00:07:44,208
+- Quête secondaire ? Droite.
+- Mec.
+
+73
+00:07:44,291 --> 00:07:47,000
+Tu ne peux même pas nous regarder dans les yeux
+en ce moment.
+
+74
+00:07:47,083 --> 00:07:49,666
+Okay, maintenant tu dois nous le dire
+que se passe-t-il.
+
+75
+00:07:49,750 --> 00:07:54,458
+Non, non, jamais en un million d'années.
+
+76
+00:07:54,541 --> 00:07:57,416
+Littéralement, sauvé par le gong.
+
+77
+00:08:00,791 --> 00:08:04,750
+Nikki, où étais-tu ?
+Nous ne vous avons pas vu depuis la cabane.
+
+78
+00:08:04,833 --> 00:08:06,125
+Désolé. Il se faisait tard,
+
+79
+00:08:06,208 --> 00:08:08,541
+et ma mère avait besoin
+pour me parler de quelque chose, alors...
+
+80
+00:08:08,625 --> 00:08:10,583
+Eh bien, tu as raté
+quelques gros titres.
+
+81
+00:08:11,166 --> 00:08:13,250
+Le H.I.C. a officiellement clos l'affaire,
+
+82
+00:08:13,333 --> 00:08:16,208
+ce qui veut dire que mon jeu D&D est toujours sur la bonne voie
+pour la tempête de neige.
+
+83
+00:08:16,291 --> 00:08:18,958
+Attendez. "<i>Votre</i> jeu D&D" ?
+
+84
+00:08:19,041 --> 00:08:21,333
+Ne penses-tu pas
+nous devrions en discuter avec le parti
+
+85
+00:08:21,416 --> 00:08:23,333
+avant de l'inviter à jouer ?
+
+86
+00:08:23,833 --> 00:08:26,416
+Je peux passer l'appel. Je suis le DM.
+
+87
+00:08:26,500 --> 00:08:27,750
+Hé, Nikki !
+
+88
+00:08:27,833 --> 00:08:29,791
+Je te retrouverai plus tard, Zombie Boy.
+
+89
+00:08:30,541 --> 00:08:33,041
+- Attendez. Je veux te parler.
+- Ouais?
+
+90
+00:08:33,125 --> 00:08:35,833
+Eh bien, je ne suis pas si sûr
+Wheeler serait cool avec ça.
+
+91
+00:08:35,916 --> 00:08:37,958
+Tu ne me l'as même pas demandé en premier.
+
+92
+00:08:38,041 --> 00:08:41,208
+Donc? Je peux prendre mes propres décisions.
+
+93
+00:08:41,291 --> 00:08:42,708
+Attends, Nikki !
+
+94
+00:08:42,791 --> 00:08:45,708
+- Écoute, je pense juste...
+- Pourriez-vous m'accorder une seconde ?
+
+95
+00:08:45,791 --> 00:08:47,375
+DMing, c'est beaucoup à faire, et--
+
+96
+00:08:47,458 --> 00:08:48,333
+Nikki, attends !
+
+97
+00:08:48,416 --> 00:08:49,333
+- Volonté!
+- Attendez.
+
+98
+00:08:49,416 --> 00:08:50,750
+Volonté!
+
+99
+00:08:54,583 --> 00:08:56,583
+Pourquoi as-tu fait ça ?
+
+100
+00:08:57,833 --> 00:09:01,958
+Ok, lequel d'entre vous, idiots
+vous avez déclenché l'alarme incendie ?
+
+101
+00:09:02,541 --> 00:09:04,458
+Je n’en ai aucune idée, Coach.
+
+102
+00:09:08,708 --> 00:09:12,625
+Je ne m'attendais pas à entendre Will, Mike,
+et « détention » dans la même phrase.
+
+103
+00:09:12,708 --> 00:09:15,333
+C'était juste une question de temps
+avant que ces bons garçons ne tournent mal.
+
+104
+00:09:15,416 --> 00:09:16,791
+Je ne sais pas lequel a fait ça,
+
+105
+00:09:16,875 --> 00:09:20,291
+mais je leur dois beaucoup de temps
+pour m'avoir fait sortir de mon examen de mathématiques.
+
+106
+00:09:20,375 --> 00:09:22,041
+Hé! Henderson!
+
+107
+00:09:23,833 --> 00:09:25,208
+On fait ça ou quoi ?
+
+108
+00:09:25,291 --> 00:09:26,750
+C'est parti, tête de pop-corn !
+
+109
+00:09:28,250 --> 00:09:31,166
+Attendez. C'est ta quête secondaire ?
+
+110
+00:09:31,250 --> 00:09:32,916
+Oui, d'accord.
+
+111
+00:09:33,000 --> 00:09:37,958
+Ma mère est en colère parce que j'ai donné mon gilet,
+donc je vais chez Rosario pour le récupérer.
+
+112
+00:09:38,041 --> 00:09:39,250
+C'est tout, d'accord ?
+
+113
+00:09:39,833 --> 00:09:40,791
+Quoi que vous disiez.
+
+114
+00:09:40,875 --> 00:09:44,041
+Assez bavardé !
+Nous perdons la lumière du jour ! Hyah !
+
+115
+00:09:44,125 --> 00:09:46,125
+J'y vais ! J'y vais !
+
+116
+00:09:50,791 --> 00:09:52,583
+Au revoir! Bonne pause !
+
+117
+00:09:53,291 --> 00:09:56,041
+Bienvenue en retenue, les ânes.
+
+118
+00:09:56,916 --> 00:09:59,416
+Okay, voyons qui nous avons.
+
+119
+00:09:59,500 --> 00:10:01,875
+- Baxter !
+- Monsieur! Présent, monsieur !
+
+120
+00:10:03,000 --> 00:10:05,250
+Tu es le fils du nouveau professeur de biologie ?
+
+121
+00:10:05,833 --> 00:10:06,750
+Ouais.
+
+122
+00:10:07,625 --> 00:10:10,125
+Elle doit être si fière.
+
+123
+00:10:11,291 --> 00:10:14,625
+Alerte célébrité ! C'est Zombie Byers !
+
+124
+00:10:14,708 --> 00:10:16,791
+Je garde un oeil sur toi.
+
+125
+00:10:16,875 --> 00:10:19,375
+Je ne peux pas disparaître sous ma montre.
+
+126
+00:10:19,458 --> 00:10:22,333
+Et M. Wheeler est là aussi.
+
+127
+00:10:22,416 --> 00:10:26,416
+Ne devriez-vous pas construire des modèles réduits de fusées
+au lieu de déclencher des alarmes incendie ?
+
+128
+00:10:26,500 --> 00:10:30,625
+Et ce ne serait tout simplement pas une détention
+sans Charlie Dandridge,
+
+129
+00:10:30,708 --> 00:10:33,750
+l'enfant d'affiche pour les sous-performants.
+
+130
+00:10:34,916 --> 00:10:36,541
+Vous connaissez le principe.
+
+131
+00:10:38,666 --> 00:10:41,000
+Vous le récupérerez après votre retenue.
+
+132
+00:10:42,250 --> 00:10:47,875
+Pendant la prochaine heure, il y aura
+pas de conversation, pas de rire, pas de lever.
+
+133
+00:10:48,416 --> 00:10:50,250
+Et votre temps commence...
+
+134
+00:10:51,708 --> 00:10:52,750
+maintenant.
+
+135
+00:10:53,791 --> 00:10:54,958
+Pouah!
+
+136
+00:10:55,041 --> 00:10:57,708
+Pouah! Au fait, quelle est la durée de la détention ?
+
+137
+00:10:57,791 --> 00:11:00,333
+Ce n'est pas amusant de battre le score de Will au <i>Galaga</i>
+s'il n'est pas là pour en être témoin.
+
+138
+00:11:00,416 --> 00:11:01,250
+Aide!
+
+139
+00:11:01,833 --> 00:11:03,291
+Que quelqu'un aide !
+
+140
+00:11:03,958 --> 00:11:05,833
+Hé, gamin ! Qu'est-ce qui ne va pas?
+
+141
+00:11:05,916 --> 00:11:08,041
+Mon frère va me tuer.
+
+142
+00:11:08,125 --> 00:11:10,458
+J'ai laissé tomber sa balle,
+et il a rebondi directement dans le tunnel.
+
+143
+00:11:12,958 --> 00:11:17,333
+J'ai trop peur pour aller le chercher
+parce que j'entends toujours des choses là-dedans.
+
+144
+00:11:19,291 --> 00:11:23,666
+Choix difficile.
+Une arcade agréable et chaleureuse ou un égout glacé et puant.
+
+145
+00:11:25,000 --> 00:11:27,208
+Parfois, ça pue d'être un héros.
+
+146
+00:11:36,208 --> 00:11:39,791
+Tu fais fausse route, idiot.
+Votre sens de l’orientation est nul.
+
+147
+00:11:41,916 --> 00:11:44,625
+Vous savez quoi?
+Tu me détestes depuis la troisième année,
+
+148
+00:11:44,708 --> 00:11:46,791
+et je ne comprends pas pourquoi.
+
+149
+00:11:46,875 --> 00:11:48,833
+C'est peut-être parce que tu es un tyran
+
+150
+00:11:48,916 --> 00:11:51,916
+qui a donné du punch à ma nouvelle robe
+à la fête d'anniversaire de Lindsay Molnar.
+
+151
+00:11:52,000 --> 00:11:54,041
+Ce n'était pas exprès.
+
+152
+00:11:54,125 --> 00:11:56,375
+L'idiot Ian Lee m'est tombé dessus.
+
+153
+00:11:56,458 --> 00:12:00,041
+Un tyran aurait-il une brèche ici
+d'un incident de bascule malveillant ?
+
+154
+00:12:00,125 --> 00:12:02,041
+Non, c'est peut-être vous qui les intimidez.
+
+155
+00:12:02,125 --> 00:12:03,625
+Un tyran aurait-il une calvitie
+
+156
+00:12:03,708 --> 00:12:06,041
+d'avoir été traînée par sa queue de cheval
+par l'équipe d'encouragement ?
+
+157
+00:12:07,000 --> 00:12:08,500
+Bon sang.
+
+158
+00:12:09,541 --> 00:12:13,708
+Hé. Si nous savions que nous avions tant de choses en commun
+quand nous étions petits,
+
+159
+00:12:13,791 --> 00:12:18,458
+pensez-vous que nous l'aurions été,
+Je ne sais pas, mes amis ?
+
+160
+00:12:19,333 --> 00:12:22,875
+Certainement pas.
+Surtout pas avec tes stupides cheveux.
+
+161
+00:12:22,958 --> 00:12:25,875
+Alors accepteriez-vous une trêve ?
+
+162
+00:12:27,250 --> 00:12:29,166
+Peu importe.
+
+163
+00:12:32,125 --> 00:12:34,625
+Waouh ! Êtes-vous d'accord?
+
+164
+00:12:34,708 --> 00:12:38,083
+Depuis ce concours de tartes,
+Je n'ai pas pu dormir.
+
+165
+00:12:38,916 --> 00:12:41,833
+Quand je ferme les yeux,
+Je continue de voir cette image.
+
+166
+00:12:41,916 --> 00:12:43,291
+Vous savez quoi? Pas grave.
+
+167
+00:12:43,375 --> 00:12:47,916
+Oh non, non, non. Tu ne peux pas commencer
+une histoire mystérieuse comme celle-là
+
+168
+00:12:48,000 --> 00:12:49,416
+et puis il suffit de libérer la liberté sous caution.
+
+169
+00:12:51,875 --> 00:12:56,916
+Ce sont ces éclairs d'un X flou
+avec une lumière rouge flottante au-dessus.
+
+170
+00:12:57,500 --> 00:13:00,958
+Tout comme Charlie. je savais
+il se passait quelque chose de plus.
+
+171
+00:13:01,458 --> 00:13:03,750
+Lumière rouge. Lumière rouge.
+
+172
+00:13:06,083 --> 00:13:07,666
+Est-ce que ça ressemblait à ça ?
+
+173
+00:13:09,208 --> 00:13:10,166
+Sorte de.
+
+174
+00:13:10,750 --> 00:13:12,000
+Mais pas vraiment.
+
+175
+00:13:12,083 --> 00:13:13,625
+Ce n'était pas seulement une lumière.
+
+176
+00:13:13,708 --> 00:13:17,041
+Il y avait des arbres, des branches
+
+177
+00:13:17,625 --> 00:13:21,250
+s'élevant d'en bas comme... des doigts.
+
+178
+00:13:25,958 --> 00:13:27,625
+Je sais que ça semble fou,
+
+179
+00:13:27,708 --> 00:13:30,416
+mais si nous pouvons trouver
+où tu as vu cette lumière,
+
+180
+00:13:30,500 --> 00:13:33,041
+peut-être pouvons-nous comprendre pourquoi.
+
+181
+00:13:35,125 --> 00:13:37,500
+Allez, je t'en supplie.
+
+182
+00:13:37,583 --> 00:13:40,875
+Je te devrai beaucoup de temps.
+S'il vous plaît, s'il vous plaît, s'il vous plaît.
+
+183
+00:13:40,958 --> 00:13:42,166
+Très bien, je vais t'aider.
+
+184
+00:13:42,708 --> 00:13:47,000
+Mais seulement pendant environ une heure.
+<i>She-Ra</i> commence à 16h30.
+
+185
+00:13:47,083 --> 00:13:47,916
+Oui!
+
+186
+00:13:48,416 --> 00:13:52,041
+Pour l'honneur de Grayskull !
+
+187
+00:14:11,333 --> 00:14:14,583
+Très bien, rejette.
+Je dois faire le tour.
+
+188
+00:14:14,666 --> 00:14:18,666
+Ne bouge pas d'un pouce.
+
+189
+00:14:21,875 --> 00:14:26,583
+Hé, je suis désolé de nous avoir amenés ici.
+Je voulais juste parler.
+
+190
+00:14:32,875 --> 00:14:35,166
+Hé, idiot. Tu veux un bras de fer ?
+
+191
+00:14:35,875 --> 00:14:37,125
+Tu es contre moi ?
+
+192
+00:14:38,250 --> 00:14:39,250
+Apportez-le.
+
+193
+00:14:50,791 --> 00:14:52,583
+Nous sommes toujours au mauvais endroit.
+
+194
+00:14:53,083 --> 00:14:55,875
+C'est bon.
+Continuons simplement à chercher le bon.
+
+195
+00:14:55,958 --> 00:14:59,750
+On ne voit presque rien.
+Il est temps d'appeler, détective. Allons-y.
+
+196
+00:14:59,833 --> 00:15:01,958
+Cela n’a tout simplement pas de sens.
+
+197
+00:15:02,041 --> 00:15:06,208
+Si tu voyais cette lumière,
+et Charlie a vu cette lumière,
+
+198
+00:15:06,291 --> 00:15:08,666
+pourquoi ferais-tu le même rêve ?
+
+199
+00:15:08,750 --> 00:15:13,500
+Hé, la Terre à Dustin.
+Il est un quart avant <i>She-Ra.</i> Il est temps d'y aller.
+
+200
+00:15:13,583 --> 00:15:15,458
+Elle-Ra. C'est exact!
+
+201
+00:15:15,541 --> 00:15:20,541
+Adora et ses amies, chaque semaine,
+ils mènent la bataille contre le...
+
+202
+00:15:21,500 --> 00:15:22,625
+Soldats de la Horde.
+
+203
+00:15:22,708 --> 00:15:23,750
+Droite.
+
+204
+00:15:23,833 --> 00:15:27,458
+Mais ils ne sont pas les plus grands ennemis d’Adora.
+Son principal ennemi est...
+
+205
+00:15:27,541 --> 00:15:28,458
+Hordak.
+
+206
+00:15:28,541 --> 00:15:30,041
+Qui est assis dans la zone d'effroi,
+
+207
+00:15:30,125 --> 00:15:32,750
+envoyer ses serviteurs
+faire le sale boulot à sa place.
+
+208
+00:15:32,833 --> 00:15:34,791
+C'est peut-être ce qui se passe ici.
+
+209
+00:15:34,875 --> 00:15:38,583
+Ce qui veut dire
+il doit y avoir un plus grand ennemi là-bas,
+
+210
+00:15:38,666 --> 00:15:40,125
+une sorte de leader.
+
+211
+00:15:40,916 --> 00:15:42,666
+Une reine.
+
+212
+00:15:42,750 --> 00:15:44,666
+Vous avez une engelure au cerveau.
+
+213
+00:15:45,416 --> 00:15:46,583
+Prenons la route.
+
+214
+00:15:52,291 --> 00:15:53,541
+Ça va, mec ?
+
+215
+00:15:54,416 --> 00:15:57,958
+Rappelez-vous cet article que nous avons vu
+de retour sur <i>The Weekly Watcher ?</i>
+
+216
+00:15:58,041 --> 00:15:59,916
+« Le serpent des égouts frappe encore » ?
+
+217
+00:16:00,000 --> 00:16:02,333
+Je pense que c'est l'égout.
+
+218
+00:16:03,541 --> 00:16:04,375
+Regarder!
+
+219
+00:16:05,541 --> 00:16:06,875
+Voilà le ballon.
+
+220
+00:16:06,958 --> 00:16:07,875
+Quoi, ça va ?
+
+221
+00:16:08,958 --> 00:16:10,666
+Brut! J'ai marché dans une flaque d'eau.
+
+222
+00:16:10,750 --> 00:16:12,375
+Mec, je pensais qu'il s'était passé quelque chose !
+
+223
+00:16:12,458 --> 00:16:14,416
+Quelque chose s'est produit !
+
+224
+00:16:14,500 --> 00:16:16,333
+J'ai ruiné mes nouvelles baskets !
+
+225
+00:16:16,416 --> 00:16:18,416
+Ma mère va me tuer !
+
+226
+00:16:20,500 --> 00:16:22,791
+Hé. Vérifiez-le.
+
+227
+00:16:35,250 --> 00:16:36,166
+Allez!
+
+228
+00:17:27,625 --> 00:17:28,541
+Courir!
+
+229
+00:17:42,041 --> 00:17:43,041
+Lucas !
+
+230
+00:17:45,458 --> 00:17:49,958
+<i>La tempête est arrivée plus tôt
+que prévu et est maintenant beaucoup plus grand,</i>
+
+231
+00:17:50,041 --> 00:17:53,458
+<i>fonçant vers le comté de Roane
+à un rythme sans précédent.</i>
+
+232
+00:17:53,541 --> 00:17:56,041
+<i>Les experts exhortent
+quiconque se trouve sur le chemin de la tempête...</i>
+
+233
+00:17:57,791 --> 00:18:00,291
+Micro. Mike, tu es là ?
+
+234
+00:18:03,083 --> 00:18:07,500
+Ha-ha ! Boom!
+La reine invaincue de la détention.
+
+235
+00:18:07,583 --> 00:18:08,708
+Les meilleurs deux sur trois.
+
+236
+00:18:08,791 --> 00:18:10,833
+Deux sur trois ?
+
+237
+00:18:10,916 --> 00:18:13,000
+Nous en sommes à neuf sur dix, mec.
+
+238
+00:18:13,083 --> 00:18:16,750
+Je suppose que ton nouveau copain aime
+traîner avec des connards.
+
+239
+00:18:18,750 --> 00:18:21,583
+Hé, je suis désolé
+Je nous ai coincés en détention,
+
+240
+00:18:21,666 --> 00:18:23,458
+mais tu ne peux pas être en colère contre moi pour toujours.
+
+241
+00:18:23,541 --> 00:18:25,916
+Parce que tu essayais d'impressionner Nikki ?
+
+242
+00:18:26,000 --> 00:18:27,750
+Écoute, je sais qu'elle est un peu...
+
+243
+00:18:32,750 --> 00:18:37,375
+D'accord, elle est beaucoup,
+mais je l'aime bien, et tout le monde aussi.
+
+244
+00:18:37,458 --> 00:18:40,500
+Cela n'a pas d'importance.
+J'ai promis à El que je la verrais après l'école,
+
+245
+00:18:40,583 --> 00:18:42,833
+mais je suis coincé ici,
+et mon walkie est dans mon casier.
+
+246
+00:18:42,916 --> 00:18:44,208
+Alors pourquoi tu boudes ?
+
+247
+00:18:44,291 --> 00:18:46,166
+- Laisse-moi partir !
+- Allons chercher ton walkie.
+
+248
+00:18:46,250 --> 00:18:48,583
+Nous ne pouvons pas ! L'entraîneur va--
+
+249
+00:18:48,666 --> 00:18:52,333
+Quoi? Donnez-nous une détention?
+Nous sommes déjà là, mec.
+
+250
+00:18:52,416 --> 00:18:54,375
+Pourquoi tu t'en soucies soudainement maintenant ?
+
+251
+00:18:54,458 --> 00:18:57,375
+Peut-être parce qu'El m'a sauvé la vie,
+genre, 50 fois,
+
+252
+00:18:57,458 --> 00:18:59,000
+et j'aimerais lui faire un solide.
+
+253
+00:18:59,083 --> 00:19:01,083
+Dandridge, tu seras aux aguets.
+
+254
+00:19:01,166 --> 00:19:03,208
+Qu'est-ce que j'y gagne ?
+
+255
+00:19:04,083 --> 00:19:08,250
+Euh, les sons doux et doux de X-Ray Spex.
+
+256
+00:19:08,333 --> 00:19:12,208
+Je vais même te faire une copie de la cassette
+quand nous serons sortis d'ici. Que dites-vous?
+
+257
+00:19:12,958 --> 00:19:14,791
+Accord.
+
+258
+00:19:14,875 --> 00:19:17,666
+Mais si ce groupe est nul, tu me dois beaucoup.
+
+259
+00:19:17,750 --> 00:19:19,333
+Eh bien, qu'en pensez-vous ?
+
+260
+00:19:21,875 --> 00:19:24,458
+D'accord, à une condition.
+
+261
+00:19:24,541 --> 00:19:26,791
+Nous le faisons avant le retour de l'entraîneur.
+
+262
+00:19:30,125 --> 00:19:31,166
+Maxime !
+
+263
+00:19:32,041 --> 00:19:33,000
+Accrochez-vous!
+
+264
+00:19:47,000 --> 00:19:48,416
+C'est trop fort!
+
+265
+00:19:51,375 --> 00:19:52,250
+Maxime !
+
+266
+00:19:53,250 --> 00:19:54,541
+Regarder!
+
+267
+00:20:02,500 --> 00:20:04,583
+Hé, moche ! Ici!
+
+268
+00:20:43,458 --> 00:20:44,458
+Qu'est-ce que... ?
+
+269
+00:20:47,958 --> 00:20:49,041
+- Jeff Nelson ?
+- Jeff Nelson ?
+
+270
+00:20:52,375 --> 00:20:53,666
+Le plafond !
+
+271
+00:21:09,625 --> 00:21:12,083
+Je ne suis pas assez payé pour ça.
+
+272
+00:21:15,083 --> 00:21:15,916
+Bonjour?
+
+273
+00:21:16,458 --> 00:21:17,458
+Bonjour?
+
+274
+00:21:18,041 --> 00:21:19,541
+Je continue d'imaginer des choses.
+
+275
+00:21:36,166 --> 00:21:38,625
+L’opération Breaker Breaker est lancée !
+
+276
+00:21:42,583 --> 00:21:44,750
+Tu sais que Will peut se débrouiller tout seul, n'est-ce pas ?
+
+277
+00:21:44,833 --> 00:21:46,791
+Mec, tu le traites
+comme s'il sortait des sentiers battus
+
+278
+00:21:46,875 --> 00:21:51,041
+chaque fois qu'il essaie de faire quelque chose de nouveau.
+Entre ça, son jeu D&D, et--
+
+279
+00:21:51,125 --> 00:21:54,583
+Tu ne sais pas Will comme moi.
+Il a traversé beaucoup de choses, et--
+
+280
+00:21:54,666 --> 00:21:56,041
+Ouais, et peut-être qu'il est malade
+
+281
+00:21:56,125 --> 00:21:58,583
+de son meilleur ami qui le regarde
+comme s'il était brisé.
+
+282
+00:21:58,666 --> 00:22:00,375
+Avez-vous déjà pensé à ça ?
+
+283
+00:22:02,333 --> 00:22:03,875
+{\an8}Tu veux connaître un secret ?
+
+284
+00:22:03,958 --> 00:22:06,333
+{\an8}Will est la personne la plus courageuse que je connaisse.
+
+285
+00:22:06,416 --> 00:22:08,125
+Ouais, je peux voir ça.
+
+286
+00:22:08,208 --> 00:22:11,083
+Si tu peux voir ça,
+pourquoi l'as-tu laissé tomber ?
+
+287
+00:22:11,166 --> 00:22:16,666
+Parce que <i>tu</i> ne veux pas de moi ici
+parce que je "gâche tout", tu te souviens ?
+
+288
+00:22:19,583 --> 00:22:22,041
+Je n'aurais pas dû dire ça. Je suis désolé.
+
+289
+00:22:22,125 --> 00:22:24,750
+Mais n'exclus pas Will à cause de moi.
+
+290
+00:22:26,083 --> 00:22:30,208
+Croyez-moi, je sais à quel point c'est effrayant
+pour laisser les gens proches de vous.
+
+291
+00:22:30,291 --> 00:22:32,208
+Quand vous le faites, cela signifie
+
+292
+00:22:32,291 --> 00:22:35,416
+les choses qu'ils font
+ou les choses qui leur arrivent,
+
+293
+00:22:35,500 --> 00:22:36,625
+ils peuvent vous faire du mal.
+
+294
+00:22:36,708 --> 00:22:40,125
+Mais ces personnes peuvent aussi vous aider.
+Ils peuvent être géniaux.
+
+295
+00:22:40,791 --> 00:22:42,291
+Il suffit de les laisser faire.
+
+296
+00:22:42,375 --> 00:22:46,208
+Peut-être que nous devrions tous les deux
+prends une page du livre de Will.
+
+297
+00:22:46,291 --> 00:22:47,541
+Et soyez courageux.
+
+298
+00:22:48,583 --> 00:22:50,833
+Vous venez tous ou quoi ? Hachez-hachez !
+
+299
+00:22:55,958 --> 00:22:58,541
+Jeff ! Allez, mec, réveille-toi !
+
+300
+00:22:59,750 --> 00:23:00,916
+- Jeff !
+- Waouh !
+
+301
+00:23:01,625 --> 00:23:02,500
+Qu'est-ce que... ?
+
+302
+00:23:03,000 --> 00:23:04,125
+Sinclair?
+
+303
+00:23:04,916 --> 00:23:05,916
+Où suis-je ?
+
+304
+00:23:06,000 --> 00:23:08,541
+Peut-être juste m'asseoir une seconde.
+
+305
+00:23:09,333 --> 00:23:10,708
+Vous souvenez-vous de ce qui s'est passé ?
+
+306
+00:23:11,708 --> 00:23:14,791
+C'est flou. Comme un rêve fou.
+
+307
+00:23:16,458 --> 00:23:18,583
+- Des feux rouges clignotants ?
+- Ouais.
+
+308
+00:23:19,416 --> 00:23:21,958
+Mais il y avait aussi cette envie.
+
+309
+00:23:22,041 --> 00:23:25,375
+Vraiment fort. Comme un… instinct.
+
+310
+00:23:26,708 --> 00:23:28,125
+Quel genre d'instinct ?
+
+311
+00:23:28,208 --> 00:23:32,041
+Chasser. J'avais l'odeur de quelque chose.
+
+312
+00:23:32,125 --> 00:23:33,083
+Proie.
+
+313
+00:23:33,166 --> 00:23:37,000
+Pas proche.
+Peut-être à un kilomètre et demi de là.
+
+314
+00:23:37,916 --> 00:23:41,916
+J'avais besoin de le retrouver,
+ramenez-le, ici.
+
+315
+00:23:42,000 --> 00:23:42,833
+Mais pourquoi ?
+
+316
+00:23:42,916 --> 00:23:45,583
+Je ne m'en souviens pas, d'accord ?
+Sortez de mon visage !
+
+317
+00:23:46,791 --> 00:23:48,458
+{\an8}Nous n'avons tué qu'une de ces choses,
+
+318
+00:23:48,541 --> 00:23:51,958
+{\an8}ce qui signifie les trois autres
+sont toujours là, à chasser.
+
+319
+00:23:52,041 --> 00:23:54,250
+{\an8}Alors nous ferions mieux d'avertir tout le monde.
+
+320
+00:23:55,916 --> 00:23:57,166
+Ce n'est pas encore fini.
+
+321
+00:24:30,041 --> 00:24:31,000
+Hein?
+
+322
+00:24:39,791 --> 00:24:42,916
+Vous vous sentez bien, Coach ?
+
+323
+00:24:45,333 --> 00:24:46,333
+Les gars?
+
+324
+00:24:46,916 --> 00:24:48,833
+Je ne pense pas que ce soit Coach.
+
